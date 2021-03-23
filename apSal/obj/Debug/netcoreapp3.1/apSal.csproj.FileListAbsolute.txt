@@ -1,0 +1,15 @@
+C:\Users\Thiago\source\repos\apSal\bin\Debug\netcoreapp3.1\apSal.exe
+C:\Users\Thiago\source\repos\apSal\bin\Debug\netcoreapp3.1\apSal.deps.json
+C:\Users\Thiago\source\repos\apSal\bin\Debug\netcoreapp3.1\apSal.runtimeconfig.json
+C:\Users\Thiago\source\repos\apSal\bin\Debug\netcoreapp3.1\apSal.runtimeconfig.dev.json
+C:\Users\Thiago\source\repos\apSal\bin\Debug\netcoreapp3.1\apSal.dll
+C:\Users\Thiago\source\repos\apSal\bin\Debug\netcoreapp3.1\apSal.pdb
+C:\Users\Thiago\source\repos\apSal\obj\Debug\netcoreapp3.1\apSal.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\apSal\obj\Debug\netcoreapp3.1\apSal.frmSal.resources
+C:\Users\Thiago\source\repos\apSal\obj\Debug\netcoreapp3.1\apSal.csproj.GenerateResource.cache
+C:\Users\Thiago\source\repos\apSal\obj\Debug\netcoreapp3.1\apSal.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\apSal\obj\Debug\netcoreapp3.1\apSal.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\apSal\obj\Debug\netcoreapp3.1\apSal.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\apSal\obj\Debug\netcoreapp3.1\apSal.dll
+C:\Users\Thiago\source\repos\apSal\obj\Debug\netcoreapp3.1\apSal.pdb
+C:\Users\Thiago\source\repos\apSal\obj\Debug\netcoreapp3.1\apSal.genruntimeconfig.cache

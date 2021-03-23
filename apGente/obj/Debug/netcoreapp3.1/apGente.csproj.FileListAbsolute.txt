@@ -1,0 +1,15 @@
+C:\ProjetosDS\apGente\bin\Debug\netcoreapp3.1\apGente.exe
+C:\ProjetosDS\apGente\bin\Debug\netcoreapp3.1\apGente.deps.json
+C:\ProjetosDS\apGente\bin\Debug\netcoreapp3.1\apGente.runtimeconfig.json
+C:\ProjetosDS\apGente\bin\Debug\netcoreapp3.1\apGente.runtimeconfig.dev.json
+C:\ProjetosDS\apGente\bin\Debug\netcoreapp3.1\apGente.dll
+C:\ProjetosDS\apGente\bin\Debug\netcoreapp3.1\apGente.pdb
+C:\ProjetosDS\apGente\obj\Debug\netcoreapp3.1\apGente.csprojAssemblyReference.cache
+C:\ProjetosDS\apGente\obj\Debug\netcoreapp3.1\apGente.frmGente.resources
+C:\ProjetosDS\apGente\obj\Debug\netcoreapp3.1\apGente.csproj.GenerateResource.cache
+C:\ProjetosDS\apGente\obj\Debug\netcoreapp3.1\apGente.AssemblyInfoInputs.cache
+C:\ProjetosDS\apGente\obj\Debug\netcoreapp3.1\apGente.AssemblyInfo.cs
+C:\ProjetosDS\apGente\obj\Debug\netcoreapp3.1\apGente.csproj.CoreCompileInputs.cache
+C:\ProjetosDS\apGente\obj\Debug\netcoreapp3.1\apGente.dll
+C:\ProjetosDS\apGente\obj\Debug\netcoreapp3.1\apGente.pdb
+C:\ProjetosDS\apGente\obj\Debug\netcoreapp3.1\apGente.genruntimeconfig.cache

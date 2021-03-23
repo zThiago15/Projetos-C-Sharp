@@ -1,0 +1,15 @@
+C:\ProjetosDS\apMult3\bin\Debug\netcoreapp3.1\apMult3.exe
+C:\ProjetosDS\apMult3\bin\Debug\netcoreapp3.1\apMult3.deps.json
+C:\ProjetosDS\apMult3\bin\Debug\netcoreapp3.1\apMult3.runtimeconfig.json
+C:\ProjetosDS\apMult3\bin\Debug\netcoreapp3.1\apMult3.runtimeconfig.dev.json
+C:\ProjetosDS\apMult3\bin\Debug\netcoreapp3.1\apMult3.dll
+C:\ProjetosDS\apMult3\bin\Debug\netcoreapp3.1\apMult3.pdb
+C:\ProjetosDS\apMult3\obj\Debug\netcoreapp3.1\apMult3.csprojAssemblyReference.cache
+C:\ProjetosDS\apMult3\obj\Debug\netcoreapp3.1\apMult3.frmMult3.resources
+C:\ProjetosDS\apMult3\obj\Debug\netcoreapp3.1\apMult3.csproj.GenerateResource.cache
+C:\ProjetosDS\apMult3\obj\Debug\netcoreapp3.1\apMult3.AssemblyInfoInputs.cache
+C:\ProjetosDS\apMult3\obj\Debug\netcoreapp3.1\apMult3.AssemblyInfo.cs
+C:\ProjetosDS\apMult3\obj\Debug\netcoreapp3.1\apMult3.csproj.CoreCompileInputs.cache
+C:\ProjetosDS\apMult3\obj\Debug\netcoreapp3.1\apMult3.dll
+C:\ProjetosDS\apMult3\obj\Debug\netcoreapp3.1\apMult3.pdb
+C:\ProjetosDS\apMult3\obj\Debug\netcoreapp3.1\apMult3.genruntimeconfig.cache

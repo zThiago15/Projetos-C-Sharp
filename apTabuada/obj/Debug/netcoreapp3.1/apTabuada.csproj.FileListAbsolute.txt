@@ -1,0 +1,15 @@
+C:\ProjetosDS\apTabuada\bin\Debug\netcoreapp3.1\apTabuada.exe
+C:\ProjetosDS\apTabuada\bin\Debug\netcoreapp3.1\apTabuada.deps.json
+C:\ProjetosDS\apTabuada\bin\Debug\netcoreapp3.1\apTabuada.runtimeconfig.json
+C:\ProjetosDS\apTabuada\bin\Debug\netcoreapp3.1\apTabuada.runtimeconfig.dev.json
+C:\ProjetosDS\apTabuada\bin\Debug\netcoreapp3.1\apTabuada.dll
+C:\ProjetosDS\apTabuada\bin\Debug\netcoreapp3.1\apTabuada.pdb
+C:\ProjetosDS\apTabuada\obj\Debug\netcoreapp3.1\apTabuada.csprojAssemblyReference.cache
+C:\ProjetosDS\apTabuada\obj\Debug\netcoreapp3.1\apTabuada.frmTabuada.resources
+C:\ProjetosDS\apTabuada\obj\Debug\netcoreapp3.1\apTabuada.csproj.GenerateResource.cache
+C:\ProjetosDS\apTabuada\obj\Debug\netcoreapp3.1\apTabuada.AssemblyInfoInputs.cache
+C:\ProjetosDS\apTabuada\obj\Debug\netcoreapp3.1\apTabuada.AssemblyInfo.cs
+C:\ProjetosDS\apTabuada\obj\Debug\netcoreapp3.1\apTabuada.csproj.CoreCompileInputs.cache
+C:\ProjetosDS\apTabuada\obj\Debug\netcoreapp3.1\apTabuada.dll
+C:\ProjetosDS\apTabuada\obj\Debug\netcoreapp3.1\apTabuada.pdb
+C:\ProjetosDS\apTabuada\obj\Debug\netcoreapp3.1\apTabuada.genruntimeconfig.cache

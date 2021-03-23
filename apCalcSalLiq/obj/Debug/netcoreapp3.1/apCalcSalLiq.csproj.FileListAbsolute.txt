@@ -1,0 +1,15 @@
+C:\ProjetosDS\apCalcSalLiq\bin\Debug\netcoreapp3.1\apCalcSalLiq.exe
+C:\ProjetosDS\apCalcSalLiq\bin\Debug\netcoreapp3.1\apCalcSalLiq.deps.json
+C:\ProjetosDS\apCalcSalLiq\bin\Debug\netcoreapp3.1\apCalcSalLiq.runtimeconfig.json
+C:\ProjetosDS\apCalcSalLiq\bin\Debug\netcoreapp3.1\apCalcSalLiq.runtimeconfig.dev.json
+C:\ProjetosDS\apCalcSalLiq\bin\Debug\netcoreapp3.1\apCalcSalLiq.dll
+C:\ProjetosDS\apCalcSalLiq\bin\Debug\netcoreapp3.1\apCalcSalLiq.pdb
+C:\ProjetosDS\apCalcSalLiq\obj\Debug\netcoreapp3.1\apCalcSalLiq.csprojAssemblyReference.cache
+C:\ProjetosDS\apCalcSalLiq\obj\Debug\netcoreapp3.1\apCalcSalLiq.frmCalcSalLiq.resources
+C:\ProjetosDS\apCalcSalLiq\obj\Debug\netcoreapp3.1\apCalcSalLiq.csproj.GenerateResource.cache
+C:\ProjetosDS\apCalcSalLiq\obj\Debug\netcoreapp3.1\apCalcSalLiq.AssemblyInfoInputs.cache
+C:\ProjetosDS\apCalcSalLiq\obj\Debug\netcoreapp3.1\apCalcSalLiq.AssemblyInfo.cs
+C:\ProjetosDS\apCalcSalLiq\obj\Debug\netcoreapp3.1\apCalcSalLiq.csproj.CoreCompileInputs.cache
+C:\ProjetosDS\apCalcSalLiq\obj\Debug\netcoreapp3.1\apCalcSalLiq.dll
+C:\ProjetosDS\apCalcSalLiq\obj\Debug\netcoreapp3.1\apCalcSalLiq.pdb
+C:\ProjetosDS\apCalcSalLiq\obj\Debug\netcoreapp3.1\apCalcSalLiq.genruntimeconfig.cache

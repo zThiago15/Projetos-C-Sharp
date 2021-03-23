@@ -1,0 +1,15 @@
+C:\ProjetosDS\apOla\bin\Debug\netcoreapp3.1\apOla.exe
+C:\ProjetosDS\apOla\bin\Debug\netcoreapp3.1\apOla.deps.json
+C:\ProjetosDS\apOla\bin\Debug\netcoreapp3.1\apOla.runtimeconfig.json
+C:\ProjetosDS\apOla\bin\Debug\netcoreapp3.1\apOla.runtimeconfig.dev.json
+C:\ProjetosDS\apOla\bin\Debug\netcoreapp3.1\apOla.dll
+C:\ProjetosDS\apOla\bin\Debug\netcoreapp3.1\apOla.pdb
+C:\ProjetosDS\apOla\obj\Debug\netcoreapp3.1\apOla.csprojAssemblyReference.cache
+C:\ProjetosDS\apOla\obj\Debug\netcoreapp3.1\apOla.frmOla.resources
+C:\ProjetosDS\apOla\obj\Debug\netcoreapp3.1\apOla.csproj.GenerateResource.cache
+C:\ProjetosDS\apOla\obj\Debug\netcoreapp3.1\apOla.AssemblyInfoInputs.cache
+C:\ProjetosDS\apOla\obj\Debug\netcoreapp3.1\apOla.AssemblyInfo.cs
+C:\ProjetosDS\apOla\obj\Debug\netcoreapp3.1\apOla.csproj.CoreCompileInputs.cache
+C:\ProjetosDS\apOla\obj\Debug\netcoreapp3.1\apOla.dll
+C:\ProjetosDS\apOla\obj\Debug\netcoreapp3.1\apOla.pdb
+C:\ProjetosDS\apOla\obj\Debug\netcoreapp3.1\apOla.genruntimeconfig.cache

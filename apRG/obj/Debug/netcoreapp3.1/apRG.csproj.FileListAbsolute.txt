@@ -1,0 +1,15 @@
+C:\ProjetosDS\apRG\bin\Debug\netcoreapp3.1\apRG.exe
+C:\ProjetosDS\apRG\bin\Debug\netcoreapp3.1\apRG.deps.json
+C:\ProjetosDS\apRG\bin\Debug\netcoreapp3.1\apRG.runtimeconfig.json
+C:\ProjetosDS\apRG\bin\Debug\netcoreapp3.1\apRG.runtimeconfig.dev.json
+C:\ProjetosDS\apRG\bin\Debug\netcoreapp3.1\apRG.dll
+C:\ProjetosDS\apRG\bin\Debug\netcoreapp3.1\apRG.pdb
+C:\ProjetosDS\apRG\obj\Debug\netcoreapp3.1\apRG.csprojAssemblyReference.cache
+C:\ProjetosDS\apRG\obj\Debug\netcoreapp3.1\apRG.frmRG.resources
+C:\ProjetosDS\apRG\obj\Debug\netcoreapp3.1\apRG.csproj.GenerateResource.cache
+C:\ProjetosDS\apRG\obj\Debug\netcoreapp3.1\apRG.AssemblyInfoInputs.cache
+C:\ProjetosDS\apRG\obj\Debug\netcoreapp3.1\apRG.AssemblyInfo.cs
+C:\ProjetosDS\apRG\obj\Debug\netcoreapp3.1\apRG.csproj.CoreCompileInputs.cache
+C:\ProjetosDS\apRG\obj\Debug\netcoreapp3.1\apRG.dll
+C:\ProjetosDS\apRG\obj\Debug\netcoreapp3.1\apRG.pdb
+C:\ProjetosDS\apRG\obj\Debug\netcoreapp3.1\apRG.genruntimeconfig.cache

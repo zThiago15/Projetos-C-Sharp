@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "apCalcSalLiq/1.0.0": {
+        "runtime": {
+          "apCalcSalLiq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "apCalcSalLiq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

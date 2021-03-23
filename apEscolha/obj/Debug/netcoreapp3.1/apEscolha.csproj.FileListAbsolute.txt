@@ -1,0 +1,15 @@
+C:\ProjetosDS\apEscolha\obj\Debug\netcoreapp3.1\apEscolha.csprojAssemblyReference.cache
+C:\ProjetosDS\apEscolha\obj\Debug\netcoreapp3.1\apEscolha.csproj.GenerateResource.cache
+C:\ProjetosDS\apEscolha\obj\Debug\netcoreapp3.1\apEscolha.AssemblyInfoInputs.cache
+C:\ProjetosDS\apEscolha\obj\Debug\netcoreapp3.1\apEscolha.AssemblyInfo.cs
+C:\ProjetosDS\apEscolha\obj\Debug\netcoreapp3.1\apEscolha.csproj.CoreCompileInputs.cache
+C:\ProjetosDS\apEscolha\bin\Debug\netcoreapp3.1\apEscolha.exe
+C:\ProjetosDS\apEscolha\bin\Debug\netcoreapp3.1\apEscolha.deps.json
+C:\ProjetosDS\apEscolha\bin\Debug\netcoreapp3.1\apEscolha.runtimeconfig.json
+C:\ProjetosDS\apEscolha\bin\Debug\netcoreapp3.1\apEscolha.runtimeconfig.dev.json
+C:\ProjetosDS\apEscolha\bin\Debug\netcoreapp3.1\apEscolha.dll
+C:\ProjetosDS\apEscolha\bin\Debug\netcoreapp3.1\apEscolha.pdb
+C:\ProjetosDS\apEscolha\obj\Debug\netcoreapp3.1\apEscolha.frmInstr.resources
+C:\ProjetosDS\apEscolha\obj\Debug\netcoreapp3.1\apEscolha.dll
+C:\ProjetosDS\apEscolha\obj\Debug\netcoreapp3.1\apEscolha.pdb
+C:\ProjetosDS\apEscolha\obj\Debug\netcoreapp3.1\apEscolha.genruntimeconfig.cache

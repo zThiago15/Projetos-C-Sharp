@@ -1,0 +1,15 @@
+C:\ProjetosDS\apPerfil\bin\Debug\netcoreapp3.1\apPerfil.exe
+C:\ProjetosDS\apPerfil\bin\Debug\netcoreapp3.1\apPerfil.deps.json
+C:\ProjetosDS\apPerfil\bin\Debug\netcoreapp3.1\apPerfil.runtimeconfig.json
+C:\ProjetosDS\apPerfil\bin\Debug\netcoreapp3.1\apPerfil.runtimeconfig.dev.json
+C:\ProjetosDS\apPerfil\bin\Debug\netcoreapp3.1\apPerfil.dll
+C:\ProjetosDS\apPerfil\bin\Debug\netcoreapp3.1\apPerfil.pdb
+C:\ProjetosDS\apPerfil\obj\Debug\netcoreapp3.1\apPerfil.csprojAssemblyReference.cache
+C:\ProjetosDS\apPerfil\obj\Debug\netcoreapp3.1\apPerfil.frmPerfil.resources
+C:\ProjetosDS\apPerfil\obj\Debug\netcoreapp3.1\apPerfil.csproj.GenerateResource.cache
+C:\ProjetosDS\apPerfil\obj\Debug\netcoreapp3.1\apPerfil.AssemblyInfoInputs.cache
+C:\ProjetosDS\apPerfil\obj\Debug\netcoreapp3.1\apPerfil.AssemblyInfo.cs
+C:\ProjetosDS\apPerfil\obj\Debug\netcoreapp3.1\apPerfil.csproj.CoreCompileInputs.cache
+C:\ProjetosDS\apPerfil\obj\Debug\netcoreapp3.1\apPerfil.dll
+C:\ProjetosDS\apPerfil\obj\Debug\netcoreapp3.1\apPerfil.pdb
+C:\ProjetosDS\apPerfil\obj\Debug\netcoreapp3.1\apPerfil.genruntimeconfig.cache

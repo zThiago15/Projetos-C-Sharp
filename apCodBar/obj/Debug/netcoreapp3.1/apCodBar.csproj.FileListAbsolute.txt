@@ -1,0 +1,15 @@
+C:\ProjetosDS\apCodBar\obj\Debug\netcoreapp3.1\apCodBar.csprojAssemblyReference.cache
+C:\ProjetosDS\apCodBar\obj\Debug\netcoreapp3.1\apCodBar.csproj.GenerateResource.cache
+C:\ProjetosDS\apCodBar\obj\Debug\netcoreapp3.1\apCodBar.AssemblyInfoInputs.cache
+C:\ProjetosDS\apCodBar\obj\Debug\netcoreapp3.1\apCodBar.AssemblyInfo.cs
+C:\ProjetosDS\apCodBar\obj\Debug\netcoreapp3.1\apCodBar.csproj.CoreCompileInputs.cache
+C:\ProjetosDS\apCodBar\bin\Debug\netcoreapp3.1\apCodBar.exe
+C:\ProjetosDS\apCodBar\bin\Debug\netcoreapp3.1\apCodBar.deps.json
+C:\ProjetosDS\apCodBar\bin\Debug\netcoreapp3.1\apCodBar.runtimeconfig.json
+C:\ProjetosDS\apCodBar\bin\Debug\netcoreapp3.1\apCodBar.runtimeconfig.dev.json
+C:\ProjetosDS\apCodBar\bin\Debug\netcoreapp3.1\apCodBar.dll
+C:\ProjetosDS\apCodBar\bin\Debug\netcoreapp3.1\apCodBar.pdb
+C:\ProjetosDS\apCodBar\obj\Debug\netcoreapp3.1\apCodBar.frmCodBar.resources
+C:\ProjetosDS\apCodBar\obj\Debug\netcoreapp3.1\apCodBar.dll
+C:\ProjetosDS\apCodBar\obj\Debug\netcoreapp3.1\apCodBar.pdb
+C:\ProjetosDS\apCodBar\obj\Debug\netcoreapp3.1\apCodBar.genruntimeconfig.cache
